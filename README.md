@@ -13,4 +13,4 @@ to connect their Ethereum wallet,
 and mint an NFT to their own wallet.<br>
 They will also be able to re-sell the NFT on OpenSea!<br>
 
-![](https://user-images.githubusercontent.com/73496577/139331802-a50925ad-24d2-4904-bcfb-f98011e26f23.png)
+<img width="1202" alt="Screen Shot 2021-10-31 at 3 34 43 PM" src="https://user-images.githubusercontent.com/73496577/139600352-84fc2236-01e1-44f8-ac93-89dd3ed62c44.png">
